@@ -17,7 +17,7 @@ To install from GitHub using the
 [remotes](https://github.com/r-lib/remotes) package, run:
 
 ``` r
-remotes::install_github("AfricanBirdData/SABAP")
+remotes::install_github("AfricaBirdData/SABAP")
 ```
 
 ## DOWNLOAD SABAP DATA
