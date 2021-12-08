@@ -6,6 +6,10 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
+## IMPORTANT: SABAP has been discontinued and will soon be removed.
+
+## Please move on to ABAP, <https://github.com/AfricaBirdData/ABAP> it provides the same functionality and covers more African countries.
+
 This packages provides functionality to access and download data from
 the Southern Africa Bird Atlas Project. Most of its functionality is
 experimental (especially that using Google Earth Engine) and under
@@ -17,7 +21,7 @@ To install from GitHub using the
 [remotes](https://github.com/r-lib/remotes) package, run:
 
 ``` r
-remotes::install_github("AfricaBirdData/SABAP")
+remotes::install_github("AfricanBirdData/SABAP")
 ```
 
 ## DOWNLOAD SABAP DATA
