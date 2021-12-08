@@ -10,7 +10,7 @@ uploadPentadsToEE(pentads, asset_id, load = TRUE, max_p = 16250)
 \item{pentads}{An \href{https://github.com/r-spatial/sf}{sf} object with the pentads to upload}
 
 \item{asset_id}{A character string with the name we want our pentads to be
-saved on the server}
+saved on the server with.}
 
 \item{load}{If TRUE (default), the GEE asset is loaded into the R session.}
 
